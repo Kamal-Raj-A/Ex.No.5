@@ -28,6 +28,7 @@ Select various scenarios such as:
 ● Or Any other test scenario
 
 For each scenario, create both a naïve and a basic prompt. Ensure each pair of prompts targets the same task but with different levels of structure.
+
 Run Experiments with ChatGPT:
 
 Input the naïve prompt for each scenario and record the generated response.
@@ -41,6 +42,7 @@ Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
+
 
 ## Types of Prompts:
 
@@ -63,6 +65,8 @@ Example:
 “Write a creative short story (150–200 words) about a young inventor who builds a robot friend. Use an emotional tone and end with a positive message.”
 
 # OUTPUT
+
+<img width="1024" height="926" alt="image for prompt" src="https://github.com/user-attachments/assets/ac899d55-be17-4d83-95fd-e5b1d04dbf22" />
 
 ## Test Scenarios, Prompts, and Responses
 
